@@ -1,0 +1,8 @@
+com.thalesr.broker.wallet.error.$CustomErrorResponseProcessor$Definition$Reference
+com.thalesr.broker.wallet.error.$FiatCurrencyNotSupportedExceptionHandler$Definition$Reference
+com.thalesr.broker.watchlist.$WatchListController$Definition$Reference
+com.thalesr.broker.data.$InMemoryAccountStore$Definition$Reference
+com.thalesr.broker.wallet.$WalletController$Definition$Reference
+com.thalesr.broker.$SymbolsController$Definition$Reference
+com.thalesr.broker.wallet.error.$CustomErrorResponseProcessor$Definition$Intercepted$Definition$Reference
+com.thalesr.broker.data.$InMemoryStore$Definition$Reference

@@ -1,0 +1,5 @@
+// depositToWallet request
+http POST localhost:8080/account/wallets/deposit < src/test/java/com/thalesr/broker/wallet/depositToWallet.json 
+
+// withdrawToWallet request
+http POST localhost:8080/account/wallets/withdraw < src/test/java/com/thalesr/broker/wallet/withdrawFromWallet.json 
